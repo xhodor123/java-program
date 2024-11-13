@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
 
-        System.out.println("super new feature");
+        System.out.println("super new feature edited");
     }
 }
